@@ -1,10 +1,12 @@
 # Ex01 Portfolio
 ## Date: 31-01-2026
+# NAME:RADHIMEENA M
+# REG NO:21223040159
 
-## AIM
+## AIM:
 To create a Portfolio using HTML and CSS.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create an HTML file (index.html)
 
@@ -47,7 +49,7 @@ Deploy the Portfolio.
 ### STEP 14
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+## PROGRAM:
 index.html
 ```
 <!DOCTYPE html>
@@ -76,7 +78,7 @@ index.html
     <div class="hero-content">
         <div class="hero-text">
           <div class="hero-image">
-            <img src="C:\Users\admin\Pictures\OIP (1).webp" alt="Profile Picture">
+            <img src="C:\Users\mhrad\Downloads\WhatsApp Image 2026-01-23 at 3.49.11 PM.jpeg" alt="Profile Picture">
           </div>
         <h2>Hello all,<span>I'm Radhimeena</span></h2>
         <p>Designer | Full Stack Developer </p>
@@ -334,15 +336,11 @@ footer {
   opacity: 0.6;
 }
 ```
-
 ## OUTPUT
-<img width="1877" height="902" alt="image" src="https://github.com/user-attachments/assets/be88daec-e837-4a59-a2c8-8be1021b1d98" />
-<img width="1883" height="905" alt="image" src="https://github.com/user-attachments/assets/cd8cf0da-a7ea-4125-903c-2ab556317502" />
-<img width="1875" height="913" alt="image" src="https://github.com/user-attachments/assets/c3b54329-0959-44b9-a495-668c452c52ad" />
-<img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/acc71d04-2da6-4110-812f-be2f850ea470" />
-
-### Wegpage link:
-file:///C:/Users/admin/Desktop/Modern%20Web%20Development/Experiment%20-%201/index.html#contact
+<img width="1338" height="639" alt="image" src="https://github.com/user-attachments/assets/bf5d6377-0818-4730-ab3c-29db85dac567" />
+<img width="1340" height="633" alt="image" src="https://github.com/user-attachments/assets/ec566414-a743-4862-9467-18bce7753724" />
+<img width="1341" height="639" alt="image" src="https://github.com/user-attachments/assets/86469bd3-0538-4a22-9d56-fe90d3ebcdc6" />
+<img width="1342" height="622" alt="image" src="https://github.com/user-attachments/assets/19624b32-d3c1-4e81-a455-60cc13451115" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
